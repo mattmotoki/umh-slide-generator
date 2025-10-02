@@ -17,8 +17,7 @@ PORT = int(os.environ.get("PORT", 8000))
 ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:3001",
-    "https://church-automation-demo.vercel.app",
-    "https://church-automation-demo-mattmotokis-projects.vercel.app",
+    "https://umh-slide-generator.vercel.app",
 ]
 
 # File paths
