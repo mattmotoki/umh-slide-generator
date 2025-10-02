@@ -1,0 +1,28 @@
+{
+  "hymn_number": 64,
+  "title": "Holy, Holy, Holy! Lord God Almighty",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Holy, holy, holy! Lord God Almighty!\nEarly in the morning our song shall rise to thee.\n<br>Holy, holy, holy! Merciful and mighty,\nGod in three persons, blessed Trinity!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Holy, holy, holy! All the saints adore thee,\ncasting down their golden crowns around the glassy sea;\n<br>cherubim and seraphim falling down before thee,\nwhich wert, and art, and evermore shalt be."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Holy, holy, holy! Though the darkness hide thee,\nthough the eye of sinful man thy glory may not see,\n<br>only thou art holy; there is none beside thee,\nperfect in power, in love and purity."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Holy, holy, holy! Lord God Almighty!\nAll thy works shall praise thy name, in earth and sky and sea.\n<br>Holy, holy, holy! Merciful and mighty,\nGod in three persons, blessed Trinity."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Reginald Heber (1826)",
+  "composer": "John B. Dykes (1861)",
+  "tune_name": "NICAEA",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

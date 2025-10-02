@@ -1,0 +1,28 @@
+{
+  "hymn_number": 230,
+  "title": "O Little Town of Bethlehem",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "O little town of Bethlehem,\nhow still we see thee lie;\nabove thy deep and dreamless sleep\nthe silent stars go by.\n<br>Yet in thy dark streets shineth\nthe everlasting light;\nthe hopes and fears of all the years\nare met in thee tonight."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "For Christ is born of Mary,\nand gathered all above,\nwhile mortals sleep, the angels keep\ntheir watch of wondering love.\n<br>O morning stars together,\nproclaim the holy birth,\nand praises sing to God the King,\nand peace to all on earth!"
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "How silently, how silently,\nthe wondrous gift is given;\nso God imparts to human hearts\nthe blessings of his heaven.\n<br>No ear may hear his coming,\nbut in this world of sin,\nwhere meek souls will receive him, still\nthe dear Christ enters in."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "O holy Child of Bethlehem,\ndescend to us, we pray;\ncast out our sin, and enter in,\nbe born in us today.\n<br>We hear the Christmas angels\nthe great glad tidings tell;\nO come to us, abide with us,\nour Lord Emmanuel!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Phillips Brooks (ca. 1868)",
+  "composer": "Lewis H. Redner (1868)",
+  "tune_name": "ST. LOUIS",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

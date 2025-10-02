@@ -1,0 +1,24 @@
+{
+  "hymn_number": 217,
+  "title": "Away in a Manger",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Away in a manger, no crib for a bed,\nthe little Lord Jesus laid down his sweet head.\n<br>The stars in the sky looked down where he lay,\nthe little Lord Jesus, asleep on the hay."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "The cattle are lowing, the baby awakes,\nbut little Lord Jesus, no crying he makes;\n<br>I love thee, Lord Jesus, look down from the sky\nand stay by my cradle till morning is nigh."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Be near me, Lord Jesus, I ask thee to stay\nclose by me forever, and love me, I pray;\n<br>bless all the dear children in thy tender care,\nand fit us for heaven to live with thee there."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Anon.",
+  "composer": "James R. Murray (1887)",
+  "tune_name": "AWAY IN A MANGER",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

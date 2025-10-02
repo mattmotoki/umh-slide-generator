@@ -1,0 +1,24 @@
+{
+  "hymn_number": 376,
+  "title": "Dona Nobis Pacem",
+  "lyrics": [
+    {
+      "page_name": "Part A",
+      "text": "Dona nobis pacem, pacem.\nDona nobis pacem."
+    },
+    {
+      "page_name": "Part B",
+      "text": "Dona nobis pacem.\nDona nobis pacem."
+    },
+    {
+      "page_name": "Part C",
+      "text": "Dona nobis pacem.\nDona nobis pacem."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "",
+  "tune_name": "DONA NOBIS PACEM",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

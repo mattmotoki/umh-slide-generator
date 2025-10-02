@@ -1,0 +1,36 @@
+{
+  "hymn_number": 710,
+  "title": "Faith of Our Fathers",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Faith of our fathers, living still,\nin spite of dungeon, fire, and sword;\n<br>O how our hearts beat high with joy\nwhene'er we hear that glorious word!"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Faith of our fathers, holy faith!\nWe will be true to thee till death."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Faith of our fathers, we will strive\nto win all nations unto thee;\n<br>and through the truth that comes from God,\nwe all shall then be truly free."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Faith of our fathers, holy faith!\nWe will be true to thee till death."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Faith of our fathers, we will love\nboth friend and foe in all our strife;\n<br>and preach thee, too, as love knows how\nby kindly words and virtuous life."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Faith of our fathers, holy faith!\nWe will be true to thee till death."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Frederick W. Faber (1849)",
+  "composer": "Henri F. Hemy (1864)",
+  "tune_name": "ST. CATHERINE",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

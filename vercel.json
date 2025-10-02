@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://church-automation-demo-production.up.railway.app/api/:path*"
+    }
+  ]
+}

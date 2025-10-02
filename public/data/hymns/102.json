@@ -1,0 +1,24 @@
+{
+  "hymn_number": 102,
+  "title": "Now Thank We All Our God",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Now thank we all our God,\nwith heart and hands and voices,\nwho wondrous things has done,\nin whom this world rejoices;\n<br>who from our mothers' arms\nhas blessed us on our way\nwith countless gifts of love,\nand still is ours today."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "O may this bounteous God\nthrough all our life be near us,\nwith ever joyful hearts\nand blessed peace to cheer us;\n<br>and keep us still in grace,\nand guide us when perplexed;\nand free us from all ills,\nin this world and the next."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "All praise and thanks to God\nthe Father now be given;\nthe Son, and him who reigns\nwith them in highest heaven;\n<br>the one eternal God,\nwhom earth and heaven adore;\nfor thus it was, is now,\nand shall be evermore."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Martin Rinkart (1636)",
+  "composer": "Johann Crüger (1647)",
+  "tune_name": "NUN DANKET",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

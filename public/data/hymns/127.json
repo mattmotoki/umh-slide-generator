@@ -1,0 +1,24 @@
+{
+  "hymn_number": 127,
+  "title": "Guide Me, O Thou Great Jehovah",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Guide me, O thou great Jehovah,\npilgrim through this barren land.\nI am weak, but thou art mighty;\nhold me with thy powerful hand.\n<br>Bread of heaven, bread of heaven,\nfeed me till I want no more;\nfeed me till I want no more."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Open now the crystal fountain,\nwhence the healing stream doth flow;\nlet the fire and cloudy pillar\nlead me all my journey through.\n<br>Strong deliverer, strong deliverer,\nbe thou still my strength and shield;\nbe thou still my strength and shield."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "When I tread the verge of Jordan,\nbid my anxious fears subside;\ndeath of death and hell's destruction,\nland me safe on Canaan's side.\n<br>Songs of praises, songs of praises,\nI will ever give to thee;\nI will ever give to thee."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "William Williams (1745)",
+  "composer": "John Hughes (1907)",
+  "tune_name": "CWM RHONDDA",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

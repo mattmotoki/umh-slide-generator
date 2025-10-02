@@ -1,0 +1,28 @@
+{
+  "hymn_number": 298,
+  "title": "When I Survey the Wondrous Cross",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "When I survey the wondrous cross\non which the Prince of Glory died,\nmy richest gain I count but loss,\nand pour contempt on all my pride."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Forbid it, Lord, that I should boast,\nsave in the death of Christ, my God;\nall the vain things that charm me most,\nI sacrifice them to his blood."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "See, from his head, his hands, his feet,\nsorrow and love flow mingled down.\nDid e'er such love and sorrow meet,\nor thorns compose so rich a crown?"
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Were the whole realm of nature mine,\nthat were an offering far too small;\nlove so amazing, so divine,\ndemands my soul, my life, my all."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Isaac Watts (1707)",
+  "composer": "Lowell Mason (1824)",
+  "tune_name": "HAMBURG",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

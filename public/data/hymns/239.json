@@ -1,0 +1,32 @@
+{
+  "hymn_number": 239,
+  "title": "Silent Night, Holy Night",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Silent night, holy night,\nall is calm, all is bright\nround yon virgin\nmother and child.\n<br>Holy infant, so tender and mild,\nsleep in heavenly peace,\nsleep in heavenly peace."
+    },
+    {
+      "page_name": "German",
+      "text": "Stille Nacht, heilige Nacht!\nAlles schläft, einsam wacht\nnur das traute hochheilige Paar,\n<br>Holder Knabe mit lockigem Haar,\nschlaf im himmlischer Ruh,\nschlaf im himmlischer Ruh."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Silent night, holy night,\nshepherds quake at the sight;\nglories stream from heaven afar,\n<br>heavenly hosts sing Alleluia!\nChrist the Savior is born,\nChrist the Savior is born!"
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Silent night, holy night,\nSon of God, love's pure light;\nradiant beams from thy holy face\n<br>with the dawn of redeeming grace,\nJesus, Lord, at thy birth,\nJesus, Lord, at thy birth."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Silent night, holy night,\nwondrous star, lend thy light;\nwith the angels let us sing,\n<br>Alleluia to our King;\nChrist the Savior is born,\nChrist the Savior is born!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Joseph Mohr (1818, alt.)",
+  "composer": "Franz Gruber (1818)",
+  "tune_name": "STILLE NACHT",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

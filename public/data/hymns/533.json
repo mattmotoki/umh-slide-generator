@@ -1,0 +1,32 @@
+{
+  "hymn_number": 533,
+  "title": "We Shall Overcome",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "We shall overcome, we shall overcome,\nwe shall overcome someday!\nOh, deep in my heart I do believe\nwe shall overcome someday!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "We'll walk hand in hand."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "We shall all be free."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "We shall live in peace."
+    },
+    {
+      "page_name": "Verse 5",
+      "text": "The Lord will see us through."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "",
+  "tune_name": "MARTIN",
+  "text_copyright": "",
+  "tune_copyright": "Adapt. © 1989 United Methodist Publishing House"
+}

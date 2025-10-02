@@ -1,0 +1,28 @@
+{
+  "hymn_number": 200,
+  "title": "Tell Out, My Soul",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Tell out, my soul, the greatness of the Lord!\nUnnumbered blessings, give my spirit voice;\n<br>tender to me the promise of his word;\nin God my Saviour shall my heart rejoice."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Tell out, my soul, the greatness of his name!\nMake known his might, the deeds his arm has done;\n<br>his mercy sure, from age to age the same;\nhis holy name, the Lord, the mighty one."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Tell out, my soul, the greatness of his might!\nPowers and dominions lay their glory by.\n<br>Proud hearts and stubborn wills are put to flight,\nthe hungry fed, the humble lifted high."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Tell out, my soul, the glories of his word!\nFirm is his promise, and his mercy sure.\n<br>Tell out, my soul, the greatness of the Lord\nto children's children and for evermore!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Timothy Dudley-Smith (1961)",
+  "composer": "Walter Greatorex (1919)",
+  "tune_name": "WOODLANDS",
+  "text_copyright": "Words © 1962 Hope Publishing Co.",
+  "tune_copyright": "Public Domain in the United States"
+}

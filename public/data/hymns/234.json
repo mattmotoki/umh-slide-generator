@@ -1,0 +1,68 @@
+{
+  "hymn_number": 234,
+  "title": "O Come, All Ye Faithful",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "O come, all ye faithful, joyful and triumphant,\nO come ye, O come ye, to Bethlehem.\nCome and behold him, born the King of angels;"
+    },
+    {
+      "page_name": "Latin 1",
+      "text": "Adeste, fideles, laeti triumphantes;\nvenite, venite in Bethlehem.\nNatum videte Regem angelorum."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    },
+    {
+      "page_name": "Latin Refrain",
+      "text": "Venite adoremus, venite adoremus,\nvenite adoremus, Dominum."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "True God of true God, Light from Light Eternal,\nlo, he shuns not the Virgin's womb;\nSon of the Father, begotten, not created;"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Sing, choirs of angels, sing in exultation;\nO sing, all ye citizens of heaven above!\nGlory to God, all glory in the highest;"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "See how the shepherds, summoned to his cradle,\nleaving their flocks, draw nigh to gaze;\nwe too will thither bend our joyful footsteps;"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    },
+    {
+      "page_name": "Verse 5",
+      "text": "Child, for us sinners poor and in the manger,\nwe would embrace thee with love and awe.\nWho would not love thee, loving us so dearly?"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    },
+    {
+      "page_name": "Verse 6",
+      "text": "Yea, Lord, we greet thee, born this happy morning,\nJesus, to thee be all glory given.\nWord of the Father, now in flesh appearing:"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "O come, let us adore him, O come, let us adore him,\nO come, let us adore him, Christ the Lord."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "John F. Wade (ca. 1743)",
+  "composer": "John F. Wade (ca. 1743)",
+  "tune_name": "ADESTES FIDELES",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

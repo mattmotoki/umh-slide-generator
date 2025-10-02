@@ -1,0 +1,28 @@
+{
+  "hymn_number": 697,
+  "title": "America (My Country, 'Tis of Thee)",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "My country,' tis of thee,\nsweet land of liberty, of thee I sing;\n<br>land where my fathers died,\nland of the pilgrims' pride,\nfrom every mountainside let freedom ring!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "My native country, thee,\nland of the noble free, thy name I love;\n<br>I love thy rocks and rills,\nthy woods and templed hills;\nmy heart with rapture thrills, like that above."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Let music swell the breeze,\nand ring from all the trees sweet freedom's song;\n<br>let mortal tongues awake;\nlet all that breathe partake;\nlet rocks their silence break, the sound prolong."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Our fathers' God, to thee,\nauthor of liberty, to thee we sing;\n<br>long may our land be bright\nwith freedom's holy light;\nprotect us by thy might, great God, our King."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Samuel F. Smith (1832)",
+  "composer": "",
+  "tune_name": "AMERICA",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

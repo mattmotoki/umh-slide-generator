@@ -1,0 +1,32 @@
+{
+  "hymn_number": 136,
+  "title": "The Lord's My Shepherd, I'll Not Want",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "The Lord's my shepherd, I'll not want.\nHe makes me down to lie\nin pastures green; he leadeth me\nthe quiet waters by."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "My soul he doth restore again,\nand me to walk doth make\nwithin the paths of righteousness,\ne'en for his own name's sake."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Yea, though I walk in death's dark vale,\nyet will I fear no ill;\nfor thou art with me, and thy rod\nand staff me comfort still."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "My table thou hast furnished\nin presence of my foes;\nmy head thou dost with oil anoint,\nand my cup overflows."
+    },
+    {
+      "page_name": "Verse 5",
+      "text": "Goodness and mercy all my life\nshall surely follow me;\nand in God's house forevermore\nmy dwelling place shall be."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "Jesse Seymour Irvine (1872)",
+  "tune_name": "CRIMOND",
+  "text_copyright": "",
+  "tune_copyright": "Harm. by permission of Oxford University Press. From \"The Scottish Psalter\", 1929"
+}

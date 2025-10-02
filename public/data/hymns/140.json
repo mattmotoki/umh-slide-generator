@@ -1,0 +1,36 @@
+{
+  "hymn_number": 140,
+  "title": "Great Is Thy Faithfulness",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Great is thy faithfulness, O God my Father;\nthere is no shadow of turning with thee;\n<br>thou changest not, thy compassions, they fail not;\nas thou hast been, thou forever wilt be."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Great is thy faithfulness! Great is thy faithfulness!\nMorning by morning new mercies I see;\n<br>all I have needed thy hand hath provided;\ngreat is thy faithfulness, Lord, unto me!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Summer and winter and springtime and harvest,\nsun, moon, and stars in their courses above\n<br>join with all nature in manifold witness\nto thy great faithfulness, mercy, and love."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Great is thy faithfulness! Great is thy faithfulness!\nMorning by morning new mercies I see;\n<br>all I have needed thy hand hath provided;\ngreat is thy faithfulness, Lord, unto me!"
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Pardon for sin and a peace that endureth,\nthine own dear presence to cheer and to guide;\n<br>strength for today and bright hope for tomorrow,\nblessings all mine, with ten thousand beside!"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Great is thy faithfulness! Great is thy faithfulness!\nMorning by morning new mercies I see;\n<br>all I have needed thy hand hath provided;\ngreat is thy faithfulness, Lord, unto me!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Thomas O. Chisholm (1923)",
+  "composer": "William M. Runyan (1923)",
+  "tune_name": "FAITHFULNESS",
+  "text_copyright": "© 1923, renewed 1951 Hope Publishing Co.",
+  "tune_copyright": "© 1923, renewed 1951 Hope Publishing Co."
+}

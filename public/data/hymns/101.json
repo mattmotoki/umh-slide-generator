@@ -1,0 +1,28 @@
+{
+  "hymn_number": 101,
+  "title": "From All That Dwell Below the Skies",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "From all that dwell below the skies,\nlet the Creator's praise arise;\nlet the Redeemer's name be sung,\nthrough every land by every tongue."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Eternal are thy mercies, Lord;\neternal truth attends thy word.\nThy praise shall sound from shore to shore,\ntill suns shall rise and set no more."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Your lofty themes, ye mortals, bring,\nin songs of praise divinely sing;\nthe great salvation loud proclaim,\nand shout for joy the Savior's name."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "In every land begin the song;\nto every land the strains belong;\nin cheerful sounds all voices raise,\nand fill the world with loudest praise."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "John Hatton (1793)",
+  "tune_name": "DUKE STREET",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

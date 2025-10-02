@@ -1,0 +1,36 @@
+{
+  "hymn_number": 219,
+  "title": "What Child Is This",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "What child is this who, laid to rest,\non Mary's lap is sleeping?\nWhom angels greet with anthems sweet,\nwhile shepherds watch are keeping?"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "This, this is Christ the King,\nwhom shepherds guard and angels sing;\nhaste, haste to bring him laud,\nthe babe, the son of Mary."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Why lies he in such mean estate\nwhere ox and ass are feeding?\nGood Christians, fear, for sinners here\nthe silent Word is pleading."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "This, this is Christ the King,\nwhom shepherds guard and angels sing;\nhaste, haste to bring him laud,\nthe babe, the son of Mary."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "So bring him incense, gold, and myrrh,\ncome, peasant, king, to own him;\nthe King of kings salvation brings,\nlet loving hearts enthrone him."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "This, this is Christ the King,\nwhom shepherds guard and angels sing;\nhaste, haste to bring him laud,\nthe babe, the son of Mary."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "William C. Dix (1865)",
+  "composer": "",
+  "tune_name": "GREENSLEEVES",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

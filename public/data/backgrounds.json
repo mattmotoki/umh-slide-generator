@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mountain-cross",
+    "display_name": "Mountain Cross Sunset",
+    "path": "/images/mountain-cross-sunset-gradient-worship-background.jpg",
+    "type": "General"
+  },
+  {
+    "id": "colorful-bokeh",
+    "display_name": "Colorful Bokeh Lights",
+    "path": "/images/colorful-bokeh-lights-worship-background.jpg",
+    "type": "General"
+  },
+  {
+    "id": "easter-cross",
+    "display_name": "Easter Cross Sunrise",
+    "path": "/images/easter-cross-sunrise-mountain-worship-background.jpg",
+    "type": "Easter"
+  },
+  {
+    "id": "gold-coins",
+    "display_name": "Gold Coins Stewardship",
+    "path": "/images/gold-coins-stewardship-offering-background.png",
+    "type": "Offering"
+  },
+  {
+    "id": "golden-geometric",
+    "display_name": "Golden Abstract Geometric",
+    "path": "/images/golden-abstract-geometric-worship-background.png",
+    "type": "General"
+  },
+  {
+    "id": "green-palms",
+    "display_name": "Green Palm Fronds",
+    "path": "/images/green-palm-fronds-nature-worship-background.png",
+    "type": "Palm Sunday"
+  },
+  {
+    "id": "heavenly-light",
+    "display_name": "Heavenly Light Rays",
+    "path": "/images/heavenly-light-rays-blue-sky-worship-background.png",
+    "type": "General"
+  },
+  {
+    "id": "ocean-sunrise",
+    "display_name": "Ocean Sunrise Golden",
+    "path": "/images/ocean-sunrise-golden-worship-background.jpg",
+    "type": "General"
+  },
+  {
+    "id": "resurrection-cross",
+    "display_name": "Resurrection Empty Cross",
+    "path": "/images/resurrection-empty-cross-sunrise-worship-background.jpg",
+    "type": "Easter"
+  }
+]

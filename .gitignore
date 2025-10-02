@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Next.js
+.next/
+tsconfig.tsbuildinfo
+
+# System files
+.DS_Store
+
+# Data
+/data/
+*.pptx
+!railway-api/app/templates/*.pptx
+.vercel

@@ -1,1 +1,1 @@
-# united-methodist-hymnal-automation
+# church-automation-demo

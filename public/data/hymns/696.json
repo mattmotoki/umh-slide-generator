@@ -1,0 +1,24 @@
+{
+  "hymn_number": 696,
+  "title": "America the Beautiful",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "O beautiful for spacious skies,\nfor amber waves of grain;\nfor purple mountain majesties\nabove the fruited plain!\n<br>America! America! God shed his grace on thee,\nand crown thy good with brotherhood\nfrom sea to shining sea."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "O beautiful for heroes proved\nin liberating strife,\nwho more than self their country loved,\nand mercy more than life!\n<br>America! America! May God thy gold refine,\ntill all success be nobleness,\nand every gain divine."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "O beautiful for patriot dream\nthat sees beyond the years\nthine alabaster cities gleam,\nundimmed by human tears!\n<br>America! America! God mend thine every flaw,\nconfirm thy soul in self-control,\nthy liberty in law."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Katharine Lee Bates (1904)",
+  "composer": "Samuel A. Ward (1888)",
+  "tune_name": "MATERNA",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

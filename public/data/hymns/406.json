@@ -1,0 +1,32 @@
+{
+  "hymn_number": 406,
+  "title": "Canticle of Prayer",
+  "lyrics": [
+    {
+      "page_name": "Antiphon",
+      "text": "We do not know how to pray as we ought,\nbut the Spirit intercedes for us\nwith sighs too deep for words."
+    },
+    {
+      "page_name": "Verse 1",
+      "text": "Ask, and it shall be given you;\nseek, and you shall find;\nknock, and it will be opened to you."
+    },
+    {
+      "page_name": "Antiphon",
+      "text": "We do not know how to pray as we ought,\nbut the Spirit intercedes for us\nwith sighs too deep for words."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "For all who ask receive,\nand all who seek find,\nand to those who knock it will be opened."
+    },
+    {
+      "page_name": "Antiphon",
+      "text": "We do not know how to pray as we ought,\nbut the Spirit intercedes for us\nwith sighs too deep for words."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "Erik Routley (1969)",
+  "tune_name": "PRAYER CANTICLE",
+  "text_copyright": "Adapt. from The Revised Standard Version of the Bible © 1946, 1952, 1973",
+  "tune_copyright": "Music © 1969 Galliard, Ltd."
+}

@@ -1,0 +1,44 @@
+{
+  "hymn_number": 238,
+  "title": "Angels We Have Heard on High",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Angels we have heard on high\nsweetly singing o'er the plains,\nand the mountains in reply\nechoing their joyous strains."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Gloria, in excelsis Deo!\nGloria, in excelsis Deo!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Shepherds, why this jubilee?\nWhy your joyous strains prolong?\nWhat the gladsome tidings be\nwhich inspire your heavenly song?"
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Gloria, in excelsis Deo!\nGloria, in excelsis Deo!"
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Come to Bethlehem and see\nChrist whose birth the angels sing;\ncome, adore on bended knee,\nChrist the Lord, the newborn King."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Gloria, in excelsis Deo!\nGloria, in excelsis Deo!"
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "See him in a manger laid,\nwhom the choirs of angels praise;\nMary, Joseph, lend your aid,\nwhile our hearts in love we raise."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Gloria, in excelsis Deo!\nGloria, in excelsis Deo!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "",
+  "tune_name": "GLORIA",
+  "text_copyright": "",
+  "tune_copyright": "Harm. © 1964 Abingdon Press"
+}

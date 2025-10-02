@@ -1,0 +1,32 @@
+{
+  "hymn_number": 93,
+  "title": "Let All the World in Every Corner Sing",
+  "lyrics": [
+    {
+      "page_name": "Antiphon",
+      "text": "Let all the world in every corner sing:\nmy God and King!"
+    },
+    {
+      "page_name": "Verse 1",
+      "text": "The heavens are not too high,\nGod's praise may thither fly;\nthe earth is not too low,\nGod's praises there may grow."
+    },
+    {
+      "page_name": "Antiphon",
+      "text": "Let all the world in every corner sing:\nmy God and King!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "The church with psalms must shout,\nno door can keep them out.\nBut, more than all,\nthe heart must bear the longest part."
+    },
+    {
+      "page_name": "Antiphon",
+      "text": "Let all the world in every corner sing:\nmy God and King!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "George Herbert (1633)",
+  "composer": "Erik Routley (1960)",
+  "tune_name": "AUGUSTINE",
+  "text_copyright": "",
+  "tune_copyright": "Music © 1976, Hinshaw Music, Inc."
+}

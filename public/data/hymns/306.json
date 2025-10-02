@@ -1,0 +1,36 @@
+{
+  "hymn_number": 306,
+  "title": "The Strife is O'er, the Battle Done",
+  "lyrics": [
+    {
+      "page_name": "Antiphon",
+      "text": "Alleluia! Alleluia! Alleluia!"
+    },
+    {
+      "page_name": "Verse 1",
+      "text": "The strife is o'er, the battle done;\nthe victory of life is won;\nthe song of triumph has begun:\nAlleluia!"
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "The powers of death have done their worst,\nbut Christ their legions hath dispersed;\nlet shouts of holy joy outburst:\nAlleluia!"
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "The three sad days are quickly sped;\nhe rises glorious from the dead;\nall glory to our risen Head!\nAlleluia!"
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Lord, by the stripes which wounded thee,\nfrom death's dread sting thy servants free,\nthat we may live, and sing to thee:\nAlleluia!"
+    },
+    {
+      "page_name": "Antiphon",
+      "text": "Alleluia! Alleluia! Alleluia!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Anon. (1695)",
+  "composer": "Giovanni P. da Palestrina (1591)",
+  "tune_name": "VICTORY",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

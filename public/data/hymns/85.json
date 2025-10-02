@@ -1,0 +1,24 @@
+{
+  "hymn_number": 85,
+  "title": "We Believe in One True God",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "We believe in one true God,\nFather, Son, and Holy Ghost,\never present help in need,\n<br>praised by all the heavenly host;\nby whose mighty power alone\nall is made and wrought and done."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "We believe in Jesus Christ,\nSon of God and Mary's Son,\nwho descended from his throne\n<br>and for us salvation won;\nby whose cross and death are we\nrescued from sin's misery."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "We confess the Holy Ghost,\nwho from both fore'er proceeds;\nwho upholds and comforts us\n<br>in all trials, fears, and needs.\nBlest and Holy Trinity,\npraise forever be to thee!"
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Tobias Clausnitzer (1668)",
+  "composer": "",
+  "tune_name": "RATISBON",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

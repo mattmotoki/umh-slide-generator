@@ -1,0 +1,28 @@
+{
+  "hymn_number": 440,
+  "title": "Let There Be Light",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Let there be light,\nlet there be understanding,\nlet all the nations gather,\nlet them be face to face."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Open our lips,\nopen our minds to ponder,\nopen the door of concord\nopening into grace."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Perish the sword,\nperish the angry judgment,\nperish the bombs and hunger,\nperish the fight for gain."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "Let there be light,\nopen our hearts to wonder,\nperish the way of terror,\nhallow the world God made."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Frances W. Davis",
+  "composer": "Robert J. B. Fleming (1967)",
+  "tune_name": "CONCORD (Fleming)",
+  "text_copyright": "",
+  "tune_copyright": "Music by permission of Mrs. Robert J. B. Fleming"
+}

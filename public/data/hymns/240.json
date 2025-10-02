@@ -1,0 +1,24 @@
+{
+  "hymn_number": 240,
+  "title": "Hark! the Herald Angels Sing",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Hark! the herald angels sing,\n\"Glory to the new-born King;\npeace on earth, and mercy mild,\nGod and sinners reconciled!\"\n<br>Joyful, all ye nations, rise,\njoin the triumph of the skies;\nwith th'angelic host proclaim,\n\"Christ is born in Bethlehem!\"\n<br>Hark! the herald angels sing,\n\"Glory to the new born King!\""
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Christ, by highest heaven adored;\nChrist, the everlasting Lord;\nlate in time behold him come,\noffspring of a virgin's womb.\n<br>Veiled in flesh the Godhead see;\nhail th' incarnate Deity,\npleased with us in flesh to dwell,\nJesus, our Emmanuel.\n<br>Hark! the herald angels sing,\n\"Glory to the new-born King!\""
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Hail the heaven-born Prince of Peace!\nHail the Sun of Righteousness!\nLight and life to all he brings,\nrisen with healing in his wings.\n<br>Mild he lays his glory by,\nborn that we no more may die,\nborn to raise us from the earth,\nborn to give us second birth.\n<br>Hark! the herald angels sing,\n\"Glory to the new born King!\""
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Charles Wesley (1739)",
+  "composer": "Felix Mendelssohn (1840)",
+  "tune_name": "MENDELSSOHN",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

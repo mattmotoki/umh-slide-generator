@@ -1,0 +1,32 @@
+{
+  "hymn_number": 700,
+  "title": "Abide with Me",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Abide with me; fast falls the eventide;\nthe darkness deepens; Lord, with me abide.\n<br>When other helpers fail and comforts flee,\nHelp of the helpless, O abide with me."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Swift to its close ebbs out life's little day;\nearth's joys grow dim; its glories pass away;\n<br>change and decay in all around I see;\nO Thou who changest not, abide with me."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "I need thy presence every passing hour.\nWhat but thy grace can foil the tempter's power?\n<br>Who, like thyself, my guide and stay can be?\nThrough cloud and sunshine, Lord, abide with me."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "I fear no foe, with thee at hand to bless;\nills have no weight, and tears no bitterness.\n<br>Where is death's sting? Where, grave, thy victory?\nI triumph still, if thou abide with me."
+    },
+    {
+      "page_name": "Verse 5",
+      "text": "Hold thou thy cross before my closing eyes;\nshine through the gloom and point me to the skies.\n<br>Heaven's morning breaks, and earth's vain shadows flee;\nin life, in death, O Lord, abide with me."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "Henry F. Lyte (1847)",
+  "composer": "W. H. Monk (1861)",
+  "tune_name": "EVENTIDE",
+  "text_copyright": "",
+  "tune_copyright": ""
+}

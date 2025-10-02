@@ -1,0 +1,36 @@
+{
+  "hymn_number": 191,
+  "title": "Jesus Loves Me",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Jesus loves me, this I know,\nfor the Bible tells me so.\nLittle ones to him belong;\nthey are weak, but he is strong."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Yes, Jesus loves me! Yes, Jesus loves me!\nYes, Jesus loves me! The Bible tells me so."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Jesus loves me he who died\nheaven's gate to open wide.\nHe will wash away my sin,\nlet his little child come in."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Yes, Jesus loves me! Yes, Jesus loves me!\nYes, Jesus loves me! The Bible tells me so."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Jesus loves me, this I know,\nas he loved so long ago,\ntaking children on his knee,\nsaying, \"Let them come to me.\""
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Yes, Jesus loves me! Yes, Jesus loves me!\nYes, Jesus loves me! The Bible tells me so."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "William B. Bradbury (1862)",
+  "tune_name": "JESUS LOVES ME",
+  "text_copyright": "Cherokee phonetic transcription © 1989 The United Methodist Publishing House.; Japanese phonetic transcription © 1989 The United Methodist Publishing House",
+  "tune_copyright": ""
+}

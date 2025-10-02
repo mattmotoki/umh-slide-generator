@@ -1,0 +1,32 @@
+{
+  "hymn_number": 655,
+  "title": "Fix Me, Jesus",
+  "lyrics": [
+    {
+      "page_name": "Refrain",
+      "text": "Oh, fix me, oh, fix me, oh, fix me;\nfix me, Jesus, fix me."
+    },
+    {
+      "page_name": "Verse 1",
+      "text": "Fix me for my long white robe,\nfix me, Jesus, fix me.\nFix me for my starry crown,\nfix me, Jesus, fix me."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Oh, fix me, oh, fix me, oh, fix me;\nfix me, Jesus, fix me."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "Fix me for my journey home,\nfix me, Jesus, fix me.\nFix me for my dying bed,\nfix me, Jesus, fix me."
+    },
+    {
+      "page_name": "Refrain",
+      "text": "Oh, fix me, oh, fix me, oh, fix me;\nfix me, Jesus, fix me."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "",
+  "tune_name": "FIX ME, JESUS",
+  "text_copyright": "",
+  "tune_copyright": "Adapt. and arr. © 1989 The United Methodist Publishing House"
+}

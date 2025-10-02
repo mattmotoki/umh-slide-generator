@@ -1,0 +1,56 @@
+{
+  "hymn_number": 378,
+  "title": "Amazing Grace",
+  "lyrics": [
+    {
+      "page_name": "Verse 1",
+      "text": "Amazing grace! How sweet the sound\nthat saved a wretch like me!\nI once was lost, but now am found;\nwas blind, but now I see."
+    },
+    {
+      "page_name": "Verse 2",
+      "text": "'Twas grace that taught my heart to fear,\nand grace my fears relieved;\nhow precious did that grace appear\nthe hour I first believed."
+    },
+    {
+      "page_name": "Verse 3",
+      "text": "Through many dangers, toils, and snares,\nI have already come;\n'tis grace hath brought me safe thus far,\nand grace will lead me home."
+    },
+    {
+      "page_name": "Verse 4",
+      "text": "The Lord has promised good to me,\nhis word my hope secures;\nhe will my shield and portion be,\nas long as life endures."
+    },
+    {
+      "page_name": "Verse 5",
+      "text": "Yea, when this flesh and heart shall fail,\nand mortal life shall cease,\nI shall possess, within the veil,\na life of joy and peace."
+    },
+    {
+      "page_name": "Verse 6",
+      "text": "When we've been there ten thousand years,\nbright shining as the sun,\nwe've no less days to sing God's praise\nthan when we'd first begun."
+    },
+    {
+      "page_name": "Cherokee",
+      "text": "OOH NAY THLA NAH, HEE OO WAY GEE.'\nE GAH GWOO YAH HAY EE.\nNAW GWOO JOE SAH, WE YOU LOW SAY,\nE GAH GWOO YAH HO NAH."
+    },
+    {
+      "page_name": "Navajo",
+      "text": "NIZHÓNÍGO JOOBA' DITTS' A'\nYISDÁSHÍÍTÍNÍGÍÍ,\nLAH YÓÓÍÍYÁ, K' AD SHÉNÁHOOSDZIN,\nDOO EESH'Í̗Í̗ DA ŃT'ÉÉ."
+    },
+    {
+      "page_name": "Kiowa",
+      "text": "DAW K'EE DA HA DAWTSAHY HE TSOW'HAW\nDAW K'EE DA HA DAWTSAHY HEE.\nBAY DAWTSAHY TAW, GAW AYM OW THAT T'AW,\nDAW K'EE DA HA DAWTSAHY H'EE."
+    },
+    {
+      "page_name": "Creek",
+      "text": "PO YA FEK CHA HE THLAT AH TET\nAH NON AH CHA PA KAS\nCHA FEE KEE O FUNNAN LA KUS\nUM E HA TA LA YUS."
+    },
+    {
+      "page_name": "Choctaw",
+      "text": "SHILOMBISH HOLITOPA MA!\nISHMMINTI PULLA CHA\nHATAK ILBUSHA PIA HA\nIS PI YUKPALASHKE."
+    }
+  ],
+  "hymnal": "umh",
+  "author": "",
+  "composer": "",
+  "tune_name": "AMAZING GRACE",
+  "text_copyright": "",
+  "tune_copyright": ""
+}
